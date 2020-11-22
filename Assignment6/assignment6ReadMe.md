@@ -1,18 +1,18 @@
 ## Assignment 6
 
-- ###Assignment: 
+- ### Assignment: 
 
- - Write an application that operates similarly to the following graphic. Take a look at the class diagrams.
+ 	- Write an application that operates similarly to the following graphic. Take a look at the class diagrams.
 
-- ###Purpose: 
+- ### Purpose: 
 
   - To demonstrate your understanding of inheritance and exception handling
 
-- ###Sample Output
+- ### Sample Output
 	![Mock-Up](./Assignment6a.png)
 	
 
-- ###Class Diagram
+- ### Class Diagram
 	![Mock-Up](./Assignment6b.png)
 	![Mock-Up](./Assignment6c.png)
 	![Mock-Up](./Assignment6d.png)
